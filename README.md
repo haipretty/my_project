@@ -26,10 +26,10 @@
 
 | 文档 | 内容 | 覆盖知识点 |
 | --- | --- | --- |
-| [NumPy & Pandas 基础练习题](./docs/numpy-pandas-exercises.md) | 45 道精简练习（NumPy 20 题 + Pandas 25 题） | 数组创建、索引切片、统计运算、Series/DataFrame、筛选清洗 |
-| [SQL 数据库专项练习](./docs/sql-exercises.md) | 15 道基础题 + 5 道进阶题，含建表与测试数据 | 聚合分组、多表连接、子查询、窗口函数、表结构设计 |
-| [数据可视化专项练习](./docs/data-visualization-exercises.md) | Matplotlib / Seaborn 可运行代码练习 | 折线图、散点图、直方图、热力图、回归图、分布图 |
-| [机器学习专项练习](./docs/machine-learning-exercises.md) | Sklearn 全流程练习 | 数据预处理、线性/逻辑回归、决策树、随机森林、聚类、模型评估与调优 |
+| [NumPy & Pandas 基础练习](./docs/numpy_pandas_exercises.md) | 45 道精简练习（NumPy 20 题 + Pandas 25 题） | 数组创建、索引切片、统计运算、Series/DataFrame、筛选清洗 |
+| [SQL 数据库专项练习](./docs/sql_exercises.md) | 15 道基础题 + 5 道进阶题，含建表与测试数据 | 聚合分组、多表连接、子查询、窗口函数、表结构设计 |
+| [数据可视化专项练习](./docs/data_visualization_exercises.md) | Matplotlib / Seaborn 可运行代码练习 | 折线图、散点图、直方图、热力图、回归图、分布图 |
+| [机器学习专项练习](./docs/machine_learning_exercises.md) | Sklearn 全流程练习 | 数据预处理、线性/逻辑回归、决策树、随机森林、聚类、模型评估与调优 |
 
 ## 🚀 实战项目
 
