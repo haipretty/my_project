@@ -1,4 +1,4 @@
-**Numpy 和 Pandas 基础精简练习题**
+**Numpy 和 Pandas 基础精简练习题（含参考答案）**
 
 本文档匹配计划学习Numpy和Pandas的朋友，涵盖**纯基础的 NumPy 和 Pandas 练习题**。所有题目均提供了可直接运行的python代码，建议先独立完成题目，再核对答案。
 
